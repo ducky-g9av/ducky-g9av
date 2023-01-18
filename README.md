@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/955106701764333602/1028800606967697429/5012.gif)](https://cdn.discordapp.com/attachments/955106701764333602/1028800606967697429/5012.gif)
+[![MasterHead](https://cdn.discordapp.com/attachments/955106701764333602/1028800606967697429/5012.gif),align=center](https://cdn.discordapp.com/attachments/955106701764333602/1028800606967697429/5012.gif)
 <h1 align="center">Wsup skids I'm ducky/g9av</h1>
 <h3 align="center">I am someone from the Netherlands thats interested in social engineering and osint</h3>
 img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/955106701764333602/1028800606967697429/5012.gif"
