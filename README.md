@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/955106701764333602/1028800606967697429/5012.gif)](https://cdn.discordapp.com/attachments/955106701764333602/1028800606535680020/artworks-000678502996-vpbjjb-t500x500.jpg)
-<img align="right" alt="Coding" width="200" src="https://cdn.discordapp.com/attachments/955106701764333602/1028800606535680020/artworks-000678502996-vpbjjb-t500x500.jpg">
+<img align="right" alt="Coding" width="250" src="https://cdn.discordapp.com/attachments/955106701764333602/1028800606535680020/artworks-000678502996-vpbjjb-t500x500.jpg">
 <h1 align="center">Wsup skids I'm ducky/g9av</h1>
 <h3 align="center">I am someone from the Netherlands thats interested in social engineering and osint</h3>
 
