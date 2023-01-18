@@ -1,5 +1,5 @@
 [![MasterHead](https://media1.tenor.com/images/7ea1a3b500894ee396cfafaa78d7491f/tenor.gif?itemid=27419013)](https://cdn.discordapp.com/attachments/955106701764333602/1028800606535680020/artworks-000678502996-vpbjjb-t500x500.jpg)
-
+<img align="right" alt="Coding" width="250" src="[https://cdn.discordapp.com/attachments/955106701764333602/1028800606535680020/artworks-000678502996-vpbjjb-t500x500.jpg](https://tenor.com/view/itachi-fortnite-itachi-fortnite-itachi-uchiha-naruto-fortnite-gif-26051391)">
 <h1 align="center">Wsup skids I'm ducky/g9av</h1>
 <h3 align="center">I am someone from the Netherlands thats interested in social engineering and osint</h3>
 <img align="right" alt="Coding" width="250" src="https://cdn.discordapp.com/attachments/955106701764333602/1028800606535680020/artworks-000678502996-vpbjjb-t500x500.jpg">
