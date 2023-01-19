@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducky-g9av&label=Profile%20views&color=475643&style=flat" alt="ducky-g9av" /> </p>
 
-- I’m currently learning **a whole bunch of nothing**
+- I’m currently learning **nothing**
 
 - My website [ducky-g9av](https://ducky-g9av.000webhostapp.com/)
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/@ducky1738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ducky1738" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ducky1738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ducky1738" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
